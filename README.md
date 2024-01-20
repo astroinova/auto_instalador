@@ -59,7 +59,7 @@ sudo apt update && sudo apt install -y git && git clone https://github.com/mathu
 <p>https://typebot.io</p>
 
 <p>🛒 COMPRE AGORA!</p>
-<p>https://seguro.afcode.store/r/INQ0WFFVL4</p>
+<p>https://pay.kiwify.com.br/PaXDCuc</p>
 
 <p>Dúvidas e Suporte:</p>
 <p>https://app.afcode.com.br/suporte</p>
