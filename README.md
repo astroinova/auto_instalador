@@ -1,5 +1,5 @@
 
-<img src="https://i.postimg.cc/tCwpVyCT/Typebot-Cloner.png"> 
+<img src="https://i.postimg.cc/JnN8zFPH/Capa-facebook-marketing-digital-minimalista-preto-roxo-azul.png"> 
 
 ## ⚠️ Pré-requisitos
 
