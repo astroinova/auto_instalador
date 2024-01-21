@@ -15,18 +15,17 @@ Você deve criar 3 subdominios do tipo 'A' na Cloudflare
 <p>Copie e cole no Terminal da sua VPS:</p>
 
 ```
-sudo apt update && sudo apt install -y git && git clone https://github.com/mathuzabr/portainer-packtypebot.git && cd portainer-packtypebot && sudo chmod +x install.sh && ./install.sh
+sudo apt update && sudo apt install -y git && git clone https://github.com/astrogestor/auto_instalador.git && cd portainer-packtypebot && sudo chmod +x install.sh && ./install.sh
 ```
 
 ## ❤️ Creditos
 
-<p>Creditos do arquivo docker-compose.yml <a href="https://www.youtube.com/@fabricandosuaideiatutoriais">Andre Almeida</a></p>
+<p>Creditos do arquivo docker-compose.yml <a href="https://www.youtube.com/@astrogestor">Eduardo Rodrigues</a></p>
 <p>OrionDesign pois copiei e modelei seu README.md e Instalador 😎 <a href="https://github.com/oriondesign2015/SetupOrion">Oriondesign2015</a> </p>
-<p>Claudeir Ribeiro - O mestre dos Grupos de WhatsApp <a href="https://chat.whatsapp.com/CZ67LfWGQefBTd2sxIoxfh">Comunidade Typebot</a>
 <br><br><br>
 
 > Convido você a conhecer nosso pack com vários modelos de fluxo de automação usando Typebot
-[clicando aqui](https://app.afcode.com.br/packtypebot)
+[clicando aqui](https:/embreve)
 
 <p>✅ Instalação do Typebot na sua VPS (Via Docker)</p>
 <p>✅ Área de Membros</p>
@@ -62,4 +61,4 @@ sudo apt update && sudo apt install -y git && git clone https://github.com/mathu
 <p>https://pay.kiwify.com.br/PaXDCuc</p>
 
 <p>Dúvidas e Suporte:</p>
-<p>https://app.afcode.com.br/suporte</p>
+<p>https://wa.me/message/H6SUOMUW7IBCK1</p>
