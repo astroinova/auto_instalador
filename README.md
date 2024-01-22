@@ -15,7 +15,7 @@ Você deve criar 3 subdominios do tipo 'A' na Cloudflare
 <p>Copie e cole no Terminal da sua VPS:</p>
 
 ```
-sudo apt update && sudo apt install -y git && git clone https://github.com/astrogestor/auto_instalador.git && cd portainer-astrogestor && sudo chmod +x install.sh && ./install.sh
+sudo apt update && sudo apt install -y git && git clone https://github.com/astrogestor/auto_instalador.git && cd /auto_instalador && sudo chmod +x install.sh && ./install.sh
 ```
 
 ## ❤️ Creditos
